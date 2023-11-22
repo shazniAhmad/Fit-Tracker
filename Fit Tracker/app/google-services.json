@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "516656484557",
+    "firebase_url": "https://fit-tracker-48458-default-rtdb.firebaseio.com",
+    "project_id": "fit-tracker-48458",
+    "storage_bucket": "fit-tracker-48458.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516656484557:android:e7c2f5ec8bb067746d9984",
+        "android_client_info": {
+          "package_name": "com.example.fittracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516656484557-pr9v6pphffb4fpfgiiifcgmkbm8bhri9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsCdg7_0x9vqJp_QPjK5dt5pGVMZIZweU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516656484557-pr9v6pphffb4fpfgiiifcgmkbm8bhri9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
